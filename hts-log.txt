@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Jan 2018 23:46:07 at http://date2mypartner.pagedemo.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://date2mypartner.pagedemo.co/ -O1 "C:\Users\tanvi\Desktop\My Documents\PAID\Web Design\Online Dating Landing Page" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:46:14	Warning: 	Link date2mypartner.pagedemo.co/ not scanned (follow robots meta tag)
+23:46:20	Error: 	"Not Found" (404) at link date2mypartner.pagedemo.co/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/all.js)
+23:46:21	Error: 	"Not Found" (404) at link date2mypartner.pagedemo.co/^([^:/? (from connect.facebook.net/en_US/all.js)
+23:46:21	Error: 	"Not Found" (404) at link date2mypartner.pagedemo.co/restserver.php (from connect.facebook.net/en_US/all.js)
+23:46:21	Error: 	"Not Found" (404) at link date2mypartner.pagedemo.co/dialog/ (from connect.facebook.net/en_US/all.js)
+23:46:21	Error: 	"Bad Request" (400) at link date2mypartner.pagedemo.co/%s/profile.php?id=%s (from connect.facebook.net/en_US/all.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 8 links scanned, 2 files written (245652 bytes overall) [108901 bytes received at 7778 bytes/sec], 342939 bytes transferred using HTTP compression in 8 files, ratio 30%, 2.0 requests per connection
+(5 errors, 1 warnings, 0 messages)
